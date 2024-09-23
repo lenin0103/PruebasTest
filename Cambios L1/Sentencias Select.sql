@@ -1,11 +1,11 @@
 
 
 ----------------------------------------------------------------------
-select * from xEstadoFactE where RefNbr = '' - ''
-select * from xEstadoFactE where RefNbr =''  - ''
-select * from xEstadoFactE where RefNbr = '' - '' ---Rev
-select * from xEstadoFactE where RefNbr = '' --- origen error 
+select * from tblName where CmpName = '' - ''
+select * from tblName where CmpName =''  - ''
+select * from tblName where CmpName = '' - '' ---Rev
+select * from tblName where CmpName = '' --- origen error 
 
-select * from xEstadoFactE where InvcNbr = '001-002-000012131'
+select * from tblName where CmpName = ''
 
 
